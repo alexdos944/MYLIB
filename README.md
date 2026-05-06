@@ -11,6 +11,12 @@ This library acts as a reusable toolbox that will be used throughout the 42 curr
 
 ## Instructions
 
+To run the project use :
+curl -fsSL https://raw.githubusercontent.com/brunogo25/42-cli/main/install.sh | bash
+then type 42 on your terminal to select the project and test it.
+
+Credits of the tester : https://github.com/brunogo25/42-cli
+
 **Compile the library:**
 
 ```
